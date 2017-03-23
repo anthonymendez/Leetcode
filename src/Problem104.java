@@ -25,10 +25,11 @@ public class Problem104 {
 		return max;
 	}
 }
-class TreeNode {
-	 int val;
-	 TreeNode left, right;
-	 TreeNode(int x){
-		 val = x;
-	 }
-}
+// Defined in TreeNode.java
+//class TreeNode {
+//	 int val;
+//	 TreeNode left, right;
+//	 TreeNode(int x){
+//		 val = x;
+//	 }
+//}
