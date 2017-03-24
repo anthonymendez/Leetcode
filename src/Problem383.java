@@ -8,7 +8,7 @@ public class Problem383 {
 			magAmt[c]++;
 		for(int i = 0; i < 128; i++){
 			if(magAmt[i] < noteAmt[i])
-				return false
+				return false;
 		}
 		return true;
 	}
