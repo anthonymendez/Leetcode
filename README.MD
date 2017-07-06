@@ -1,4 +1,4 @@
-# Leetcode Spring 2017 Problem Attempts and Github Learning
+# Leetcode Spring 2017 Problem Attempts and Learning Github
 
 I decided to go through some Leetcode Problems in the Spring 2017 semester. I also used this time to learn about Git and Github and familiarize myself on how the site works.
 
